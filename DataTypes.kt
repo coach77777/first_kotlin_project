@@ -2,7 +2,7 @@ package com.example.first_kotlin_project
 
 fun main(args: Array<String>) {
 
-    //these are the data types in Kotlin
+
 
     var a:Boolean = true
     var b:Char = 'r'
